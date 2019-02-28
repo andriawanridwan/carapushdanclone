@@ -1,0 +1,20 @@
+cara push dan clone project ke GITHUB :
+
+DI Penyimpanan lokak
+-> Cara Clone 
+1. klik kanan folder untuk penyimpanan clone 
+2. Pilih git bash
+3. ketik git clone url github
+4. selesai
+
+-> push project ke GITHUB
+1. klik kanan folder yang ingin di push
+2. pilih git bash
+3. ketik git init
+4. pindah file ke folder init
+5. ketik git init lagi
+6. ketik git add *
+7. ketik git commit -m "nama commit"
+8. ketik git remote add origin url github
+9. ketik git push -u origin master
+10. selesai 
